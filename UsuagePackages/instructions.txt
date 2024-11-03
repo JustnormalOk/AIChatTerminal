@@ -28,5 +28,5 @@ INSTRUCTIONS:
 8/ After downloading, make sure turn it to Developer and load the model, 
    go to the Developer at the left tab
 9/ Click "Start", make sure the port is 1234
-10/ After that, go to CharInstructions.txt and SystemGreeting.txt, you could see there, customize it.
-11/ After that, run run_this.sh 
+10/ After that, go to CharInstructions.txt, you could see there, customize it.
+11/ After that, run main.py
