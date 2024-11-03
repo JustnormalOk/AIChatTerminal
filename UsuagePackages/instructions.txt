@@ -1,0 +1,32 @@
+REQUIREMENTS:
+Recommended:
+8GB RAM
+MacOS:  M1 and above. ( or M-Series chip )
+Windows: 64-bit operating system (Windows 10 or later)
+Linux: 64-bit operating system (Ubuntu 20.04 or later)
+Processor:
+Intel Core i5 or AMD equivalent
+Graphics:
+NVIDIA GeForce GTX 1060 or AMD Radeon RX 580
+Storage:
+32GB space
+RAM:
+8GB RAM required ( 16GB RAM recommended )
+
+INSTRUCTIONS:
+1/ Head to https://lmstudio.ai/
+2/ OS:
+    - If you use MacOS, you need your MacBook, iMac or Mac Studio,... 
+    to have M1 and above. ( or M-Series chip )
+    - If you use Windows, download Windows
+    - If you use Linux, download for Linux and follow the INSTRUCTIONS
+3/ Go through the installiation process:
+4/ Open LM Studio
+5/ Not yet! Go to the Discover
+6/ Search for raw models or uncensored models
+7/ After that, click download
+8/ After downloading, make sure turn it to Developer and load the model, 
+   go to the Developer at the left tab
+9/ Click "Start", make sure the port is 1234
+10/ After that, go to CharInstructions.txt and SystemGreeting.txt, you could see there, customize it.
+11/ After that, run run_this.sh 
