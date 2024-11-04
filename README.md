@@ -1,7 +1,7 @@
 # AIChatTerminal
 ai chat terminal for chatting but in terminal only :)
 
-## Requirements to run an LLM:
+## Requirements to run an LLM ( for the app ):
 If iMac, MacBook, Mac Studio, Mac Mini,... devices:
 - Needs Apple Silicon ( M1 and above or M-series family, for installing the app )
 - RAM: 8GB ram and above ( 16GB ram is recommended )
